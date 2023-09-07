@@ -12,4 +12,7 @@ $\lambda$: Wavelength<br />
 I simply used the Snell-Descartes law on refraction: $N_0 \sin \theta_0 = N_1 \sin \theta_1$ <br />
 I then simply trace the light ray using Euler's Method.<br />
 You can edit the code to create different light paths.<br />
-Enjoy!<br />
+# File format
+The generated images are in the ppm file format:
+# Final message
+Enjoy C:<br />
