@@ -9,3 +9,6 @@ $\lambda$: Wavelength<br />
 # The Physics
 I simply used the Snell-Descartes law on refraction. <br />
 $N_0 \sin \theta_0 = N_1 \sin \theta_1$ <br />
+I then simply trace the light ray using Euler's Method.<br />
+You can edit the code to create different light paths.<br />
+Enjoy!<br />
