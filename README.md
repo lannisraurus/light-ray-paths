@@ -1,6 +1,6 @@
 # Overview
-This is a simple simulation of a light ray going through a material with a varying refractive index.<br /><br />
-![A light path](example.png)<br /><br />
+This is a simple simulation of a light ray going through a material with a varying refractive index.
+![A light path](example.png)
 $N(x,y,\lambda) = N_0 + \sin x \sin y \sin A*\lambda$<br /><br />
 $N$: Refractive index<br />
 $N_0$: Original material refractive index<br />
