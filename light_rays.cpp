@@ -60,7 +60,7 @@ int main(){
 
     // Simulation variables
     std::vector<std::vector<light>> curves (maxWL-minWL+1);
-    int N_Iter = 4000;
+    int N_Iter = 2000;
 
     // Initial conditions
     double surfaceY0 = 0;
