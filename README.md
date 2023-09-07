@@ -1,5 +1,5 @@
 # Overview
-This is a simple simulation of a light ray going through a material with a varying refractive index.<br />
+This is a simple simulation of a light ray going through a material with a varying refractive index.<br /><br />
 ![A light path](example.png)
 # The Physics
 I simply used the Snell-Descartes law on refraction. <br />
