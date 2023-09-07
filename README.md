@@ -14,5 +14,14 @@ I then simply trace the light ray using Euler's Method.<br />
 You can edit the code to create different light paths.<br />
 # File format
 The generated images are in the ppm file format:
+```
+P3
+WID HEI
+MAX_COLOUR
+R G B
+R G B
+R G B
+...
+```
 # Final message
 Enjoy C:<br />
