@@ -3,18 +3,18 @@ This is a simple simulation of a light ray going through a material with a varyi
 <p align="center">
   <img src="example.png" />
 </p>
-$N(x,y,\lambda) = N_0 + \sin x \sin y \sin A*\lambda$<br /><br />
-$N$: Refractive index<br />
-$N_0$: Original material refractive index<br />
-$A$: Proportionality constant<br />
-$\lambda$: Wavelength<br />
+$N(x,y,\lambda) = N_0 + \sin x \sin y \sin A*\lambda$
+$N$: Refractive index
+$N_0$: Original material refractive index
+$A$: Proportionality constant
+$\lambda$: Wavelength
 # The Physics
-I simply used the Snell-Descartes law on refraction: $N_0 \sin \theta_0 = N_1 \sin \theta_1$ <br />
-I then simply trace the light ray using Euler's Method.<br />
-You can edit the code to create different light paths.<br />
+I simply used the Snell-Descartes law on refraction: $N_0 \sin \theta_0 = N_1 \sin \theta_1$ 
+I then simply trace the light ray using Euler's Method.
+You can edit the code to create different light paths.
+
 # File format
 The generated images are in the ppm file format:
-
 ```
 P3
 WID HEI
@@ -25,4 +25,4 @@ R G B
 etc
 ```
 # Final message
-Enjoy C:<br />
+Enjoy C:
