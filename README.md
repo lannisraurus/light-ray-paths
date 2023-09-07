@@ -22,7 +22,7 @@ MAX_COLOUR
 R G B
 R G B
 R G B
-etc
+[...]
 ```
 # Final message
 Enjoy C:
