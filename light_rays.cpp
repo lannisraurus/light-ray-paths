@@ -70,9 +70,9 @@ int main(){
     double N0 = 2;
 
     // Constraints
-    std::vector<double> A = {0.001};
+    std::vector<double> A = {0.01};
     auto N_index = [N0,A](double x, double y, double wavelength){
-        return N0 + sin(x)*sin(y)*sin(A[0]*wavelength);             
+        return N0 + sin(2*x)*sin(y)*sin(A[0]*wavelength);             
     }; 
 
     // Resolution
