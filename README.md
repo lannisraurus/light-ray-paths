@@ -21,6 +21,8 @@ I then simply trace the light ray using Euler's Method.
 
 You can edit the code to create different light paths.
 
+The colours of the light rays are a map from wavelength to RGB, using approximated "light cones" that are present in our eyes (approximately gaussian curves). 
+
 # File format
 The generated images are in the ppm file format:
 ```
